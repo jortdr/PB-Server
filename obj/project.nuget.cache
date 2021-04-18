@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9RgDrrN4fpAawkhKncWGIY903Q3qYXVw6njJgoEZrybmdqbkrQFBlYgh4hlqrLBOCgd9yD/LttU6xPnr+w6Pwg==",
+  "success": true,
+  "projectFilePath": "D:\\AstroTurffx\\Codes\\C#\\Paintball Server\\Paintball Server\\Paintball Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pokev\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

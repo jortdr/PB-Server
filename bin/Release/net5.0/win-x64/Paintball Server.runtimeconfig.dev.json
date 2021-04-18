@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pokev\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pokev\\.nuget\\packages"
+    ]
+  }
+}
